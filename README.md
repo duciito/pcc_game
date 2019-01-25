@@ -1,2 +1,2 @@
 # pcc_game
-A simple space shooter like 
+A simple space shooter like game
